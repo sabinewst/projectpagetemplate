@@ -1,1 +1,1 @@
-# projectpagetemplate
+# Project page template
